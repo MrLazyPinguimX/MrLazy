@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cookies!
 - 🌱 I’m currently learning App Development. 
 - 💞️ I’m looking to collaborate with you!
-- 📫 How to reach me mylazymail@lazypinguimx.com
+- 📫 How to reach me mail@mrlazy.pt
 
 <!---
 LazyPinguimX/LazyPinguimX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
